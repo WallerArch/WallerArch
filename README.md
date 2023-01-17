@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Student
-I am currently as of january 2023 studying web development at Mid Sweden University and this is where you'll find what I made during my studies.
+As of january 2023 I am currently studying web development at Mid Sweden University and this is where you'll find what I made during my studies.
 
 ## Contact
 bjan1400@student.miun.se
