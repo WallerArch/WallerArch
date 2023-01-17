@@ -17,7 +17,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
 
 ## Student
-As of **_january 2023_** I am currently studying web development at [Mid Sweden University](https://www.miun.se/webbutveckling) and this is where you'll find what I've [made during my studies](https://github.com/WallerArch).
+As of **_january 2023_** I am currently studying web development at [Mid Sweden University](https://www.miun.se/webbutveckling) and this GitHub profile is where you'll find what I've [made during my studies](https://github.com/WallerArch) and perhaps other projects also.
 
 Datateknik GR (A)
 - **_Introduktion till programmering i JavaScript, 7,5 hp_** :white_check_mark:
