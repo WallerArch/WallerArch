@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##Student
+I am currently as of january 2023 studying webdevelopment at Mid Sweden University and this is where you'll find what I made during my studies.
+
+##Contact
+bjan1400@student.miun.se
