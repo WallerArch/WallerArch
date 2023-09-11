@@ -24,15 +24,15 @@ Datateknik GR (A)
 - **_Webbutveckling I, 7,5 hp_** :white_check_mark:
 - **_Grafisk teknik för webb, 7,5 hp_** :white_check_mark:
 - Programmering i C#.NET, 7,5 hp
-- Databaser, 7,5 hp
+- **_Databaser, 7,5 hp_** :white_check_mark:
 
 Datateknik GR (B)
-- Webbutveckling II, 7,5 hp
-- Webbdesign för CMS, 7,5 hp
+- **_Webbutveckling II, 7,5 hp_** :white_check_mark:
+- **_Webbdesign för CMS, 7,5 hp_** :white_check_mark:
 - **_Webbanvändbarhet, 7,5 hp_** :white_check_mark:
-- Webbutveckling III, 7,5 hp
+- **_Webbutveckling III, 7,5 hp_** :white_check_mark:
 - Fullstack-utveckling med ramverk, 7,5 hp
-- Javascript-baserad webbutveckling, 7,5 hp
+- **_Javascript-baserad webbutveckling, 7,5 hp_** :white_check_mark:
 - Webbutveckling med .NET, 7,5 hp
 - Självständigt arbete, 15 hp
 
