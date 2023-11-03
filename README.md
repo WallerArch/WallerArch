@@ -31,7 +31,7 @@ Datateknik GR (B)
 - **_Webbdesign för CMS, 7,5 hp_** :white_check_mark:
 - **_Webbanvändbarhet, 7,5 hp_** :white_check_mark:
 - **_Webbutveckling III, 7,5 hp_** :white_check_mark:
-- Fullstack-utveckling med ramverk, 7,5 hp
+- **_Fullstack-utveckling med ramverk, 7,5 hp_** :white_check_mark:
 - **_Javascript-baserad webbutveckling, 7,5 hp_** :white_check_mark:
 - Webbutveckling med .NET, 7,5 hp
 - Självständigt arbete, 15 hp
@@ -40,7 +40,7 @@ Industriell organisation och ekonomi GR (A)
 - Affärsplaner och kommersialisering, 7,5 hp
 
 Informatik GR (A)
-- Projektledning, 7,5 hp
+- **_Projektledning, 7,5 hp_** :white_check_mark:
 
 ## Contact
 bjan1400@student.miun.se
