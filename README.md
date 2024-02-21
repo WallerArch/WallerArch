@@ -23,7 +23,7 @@ Datateknik GR (A)
 - **_Introduktion till programmering i JavaScript, 7,5 hp_** :white_check_mark:
 - **_Webbutveckling I, 7,5 hp_** :white_check_mark:
 - **_Grafisk teknik för webb, 7,5 hp_** :white_check_mark:
-- Programmering i C#.NET, 7,5 hp
+- **_Programmering i C#.NET, 7,5 hp_** :white_check_mark:
 - **_Databaser, 7,5 hp_** :white_check_mark:
 
 Datateknik GR (B)
