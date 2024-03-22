@@ -33,7 +33,7 @@ Datateknik GR (B)
 - **_Webbutveckling III, 7,5 hp_** :white_check_mark:
 - **_Fullstack-utveckling med ramverk, 7,5 hp_** :white_check_mark:
 - **_Javascript-baserad webbutveckling, 7,5 hp_** :white_check_mark:
-- Webbutveckling med .NET, 7,5 hp
+- **_Webbutveckling med .NET, 7,5 hp_** :white_check_mark:
 - Självständigt arbete, 15 hp
 
 Industriell organisation och ekonomi GR (A)
